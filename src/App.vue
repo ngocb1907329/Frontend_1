@@ -1,9 +1,11 @@
 <script>
   import AppHeader from "@/components/AppHeader.vue";
+ import ContactForm from "./components/ContactForm.vue";
 
   export default {
     components: {
       AppHeader,
+      ContactForm,
     },
   }
 </script>
